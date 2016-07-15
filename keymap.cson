@@ -35,8 +35,15 @@
 
 '.platform-win32, .platform-linux':
     'ctrl-shift-g': 'git-plus:menu'
+    'ctrl-shift-h': 'atom-beautify:beautify-editor'
+    'f12': 'open-in-browsers:toggle'
 
 'atom-text-editor':
     'ctrl-shift-h': 'atom-beautify:beautify-editor'
     'f12': 'open-in-browsers:toggle'
-    'ctrl-f12':'browser-plus:open'
+    # 'ctrl-f12':'browser-plus:open'
+
+'atom-text-editor[data-grammar~=html]':
+    'ctrl-f12':'atom-html-preview:toggle'
+    'ctrl-shift-h': 'atom-beautify:beautify-editor'
+    'f12': 'open-in-browsers:toggle'
