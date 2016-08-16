@@ -1,9 +1,19 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
-	"font_size": 14,
+	"default_encoding": "GB2313",
+	"font_size": 13,
+	"gutter": true,
 	"ignored_packages":
 	[
+		"APICloudWiFiSync",
+		"Sublime-APICloud-Loader",
+		"Sublime-APICloud-Package",
+		"Sublime-APICloud-Snippet",
 		"Vintage"
 	],
-	"word_wrap": "auto"
+	"line_numbers": true,
+	"line_padding_bottom": 2,
+	"line_padding_top": 1,
+	"margin": 0,
+	"word_wrap": "false"
 }
