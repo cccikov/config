@@ -16,3 +16,30 @@
 	"margin": 0,
 	"word_wrap": "false"
 }
+{
+	"color_scheme": "Packages/Monokai - Spacegray/Monokai - Spacegray.tmTheme",
+	"font_size": 13,
+	"gutter": true,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"APICloudWiFiSync",
+		"Sublime-APICloud-Loader",
+		"Sublime-APICloud-Package",
+		"Sublime-APICloud-Snippet",
+		"Vintage"
+	],
+	"line_numbers": true,
+	"line_padding_bottom": 2,
+	"line_padding_top": 1,
+	"margin": 0,
+	"rulers":
+	[
+		80
+	],
+	"show_encoding": true,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": false,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": "auto"
+}
