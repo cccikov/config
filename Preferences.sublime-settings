@@ -17,8 +17,8 @@
 	"word_wrap": "false"
 }
 {
-	"color_scheme": "Packages/Predawn Monokai/Predawn Monokai.tmTheme",
-	"draw_indent_guides": false,
+	"color_scheme": "Packages/Monokai - Spacegray/Monokai - Spacegray.tmTheme",
+
 	"font_options":
 	[
 		"italic",
@@ -46,6 +46,7 @@
 		80
 	],
 	"show_encoding": true,
+	"draw_indent_guides": true,
 	"tab_size": 4,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
