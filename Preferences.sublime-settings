@@ -17,7 +17,15 @@
 	"word_wrap": "false"
 }
 {
-	"color_scheme": "Packages/Monokai - Spacegray/Monokai - Spacegray.tmTheme",
+	"color_scheme": "Packages/Predawn Monokai/Predawn Monokai.tmTheme",
+	"draw_indent_guides": false,
+	"font_options":
+	[
+		"italic",
+		"no_bold",
+		"no_gray_antialias",
+		"no_directwrite"
+	],
 	"font_size": 13,
 	"gutter": true,
 	"highlight_line": true,
@@ -39,7 +47,7 @@
 	],
 	"show_encoding": true,
 	"tab_size": 4,
-	"translate_tabs_to_spaces": false,
+	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": "auto"
 }
