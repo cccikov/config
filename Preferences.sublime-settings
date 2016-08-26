@@ -18,7 +18,6 @@
 }
 {
 	"color_scheme": "Packages/Monokai - Spacegray/Monokai - Spacegray.tmTheme",
-
 	"font_options":
 	[
 		"italic",
@@ -48,6 +47,7 @@
 	"show_encoding": true,
 	"draw_indent_guides": true,
 	"tab_size": 4,
+	"draw_indent_guides": false,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": "auto"
