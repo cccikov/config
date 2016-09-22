@@ -50,5 +50,6 @@
 	"draw_indent_guides": false,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": "auto"
+	"word_wrap": "auto",
+	"show_definitions": false,//提示语法定义
 }
