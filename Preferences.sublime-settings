@@ -53,3 +53,72 @@
 	"word_wrap": "auto",
 	"show_definitions": false,//提示语法定义
 }
+
+
+// 主题
+// 默认
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"theme": "Default.sublime-theme",
+}
+
+// soda
+{
+	"theme": "Soda Light 3.sublime-theme",
+	"theme": "Soda Dark 3.sublime-theme",
+}
+
+
+// Flatland
+{
+  "theme": "Flatland Dark.sublime-theme",
+  "color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme"
+}
+
+// bamboo
+{
+    "theme": "Bamboo.sublime-theme",
+    "color_scheme": "Packages/Theme - Bamboo/Bamboo.tmTheme"
+}
+
+
+// Brogrammer
+{
+  "theme": "Brogrammer.sublime-theme",
+  "color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme"
+}
+
+// Theme - Glacier
+{
+  "theme": "Glacier.sublime-theme",
+  "color_scheme": "Packages/Theme - Glacier/glacier.tmTheme",
+  "font_face": "Ubuntu Mono"
+}
+
+{
+	// for a dark theme use:
+"theme": "itg.flat.dark.sublime-theme",
+
+// for a light theme use:
+"theme": "itg.flat.light.sublime-theme",
+
+// additional (dark) color options
+"theme": "itg.flat.dark.aqua.sublime-theme",
+"theme": "itg.flat.dark.blue.sublime-theme",
+"theme": "itg.flat.dark.green.sublime-theme",
+"theme": "itg.flat.dark.orange.sublime-theme",
+"theme": "itg.flat.dark.yellow.sublime-theme",
+
+// additional (light) color options
+"theme": "itg.flat.light.aqua.sublime-theme",
+"theme": "itg.flat.light.blue.sublime-theme",
+"theme": "itg.flat.light.green.sublime-theme",
+"theme": "itg.flat.light.orange.sublime-theme",
+"theme": "itg.flat.light.yellow.sublime-theme",
+
+// for a dark theme use:
+"color_scheme": "Packages/Theme - itg.flat/itg.dark.tmTheme",
+
+// for a light theme use:
+"color_scheme": "Packages/Theme - itg.flat/itg.light.tmTheme",
+}
