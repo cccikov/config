@@ -1,0 +1,34 @@
+{
+	// "color_scheme": "Packages/Theme - Solarized Space/Solarized V (Light).tmTheme",
+	"draw_indent_guides": true,
+	"font_options":
+	[
+	],
+	"font_size": 13,
+	"gutter": true,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"APICloudWiFiSync",
+		"ConvertToUTF8",
+		"Sublime-APICloud-Loader",
+		"Sublime-APICloud-Package",
+		"Sublime-APICloud-Snippet",
+		"Vintage"
+	],
+	"line_numbers": true,
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"margin": 0,
+	"rulers":
+	[
+		100
+	],
+	"show_definitions": false,
+	"show_encoding": true,
+	"tab_size": 4,
+	// "theme": "Boxy Solarized Light.sublime-theme",
+	"translate_tabs_to_spaces": false,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": "auto"
+}

@@ -1,0 +1,35 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AutoFileName",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"Emmet",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"LESS",
+		"Material Theme",
+		"Monokai - Spacegray",
+		"Nodejs",
+		"Package Control",
+		"Predawn",
+		"Predawn Monokai",
+		"Solarized Color Scheme",
+		"SublimeCodeIntel",
+		"Theme - Bamboo",
+		"Theme - Brogrammer",
+		"Theme - Flatland",
+		"Theme - Glacier",
+		"Theme - itg.flat",
+		"Theme - Soda",
+		"Theme - Solarized Flat",
+		"Theme - Solarized Space",
+		"View In Browser"
+	]
+}
