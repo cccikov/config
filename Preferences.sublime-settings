@@ -61,6 +61,11 @@
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"theme": "Default.sublime-theme",
 }
+// 最爱
+{
+	"theme": "Boxy Solarized Light.sublime-theme",
+	"color_scheme": "Packages/Theme - Solarized Space/Solarized V (Light).tmTheme",
+}
 
 // soda
 {
