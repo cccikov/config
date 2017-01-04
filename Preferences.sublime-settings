@@ -174,9 +174,11 @@
  * Soda
  */
 {
+	// sublime2
     "theme": "Soda Light.sublime-theme",
 }
 {
+	// sublime3
     "theme": "Soda Light 3.sublime-theme",
 }
 {
