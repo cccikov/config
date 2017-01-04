@@ -67,63 +67,161 @@
 	"color_scheme": "Packages/Theme - Solarized Space/Solarized V (Light).tmTheme",
 }
 
-// soda
-{
-	"theme": "Soda Light 3.sublime-theme",
-	"theme": "Soda Dark 3.sublime-theme",
-}
+/*
+ * "Boxy Theme",
+ * "Material Theme",
+ * 都是可以直接通过 preferences - package setting 里面设置
+ */
 
 
-// Flatland
-{
-  "theme": "Flatland Dark.sublime-theme",
-  "color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme"
-}
-
-// bamboo
+/*
+ * Bamboo
+ */
 {
     "theme": "Bamboo.sublime-theme",
-    "color_scheme": "Packages/Theme - Bamboo/Bamboo.tmTheme"
+    "color_scheme": "Packages/Theme - Bamboo/Bamboo.tmTheme",
 }
 
-
-// Brogrammer
+/*
+ * Brogrammer
+ */
 {
   "theme": "Brogrammer.sublime-theme",
-  "color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme"
+  "color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme",
 }
 
-// Theme - Glacier
+/*
+ * Flatland
+ */
+{
+  "theme": "Flatland Dark.sublime-theme",
+  "color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme",
+}
+{
+  // square file tabs instead of rounded corners
+  "flatland_square_tabs": true,
+
+  // Monokai color scheme (SublimeText's default) with Flatland background color
+  "color_scheme": "Packages/Theme - Flatland/Flatland Monokai.tmTheme",
+
+  // Ability to change row height of sidebar tree
+  // Options: xsmall, small, medium, large, xlarge
+  "flatland_sidebar_tree_xsmall" : true,
+}
+
+
+/*
+ * Glacier
+ */
 {
   "theme": "Glacier.sublime-theme",
   "color_scheme": "Packages/Theme - Glacier/glacier.tmTheme",
-  "font_face": "Ubuntu Mono"
+  "font_face": "Ubuntu Mono",
 }
 
+/*
+ * itg.flat
+ */
 {
 	// for a dark theme use:
-"theme": "itg.flat.dark.sublime-theme",
+	"theme": "itg.flat.dark.sublime-theme",
 
-// for a light theme use:
-"theme": "itg.flat.light.sublime-theme",
+	// for a light theme use:
+	"theme": "itg.flat.light.sublime-theme",
 
-// additional (dark) color options
-"theme": "itg.flat.dark.aqua.sublime-theme",
-"theme": "itg.flat.dark.blue.sublime-theme",
-"theme": "itg.flat.dark.green.sublime-theme",
-"theme": "itg.flat.dark.orange.sublime-theme",
-"theme": "itg.flat.dark.yellow.sublime-theme",
+	// additional (dark) color options
+	"theme": "itg.flat.dark.aqua.sublime-theme",
+	"theme": "itg.flat.dark.blue.sublime-theme",
+	"theme": "itg.flat.dark.green.sublime-theme",
+	"theme": "itg.flat.dark.orange.sublime-theme",
+	"theme": "itg.flat.dark.yellow.sublime-theme",
 
-// additional (light) color options
-"theme": "itg.flat.light.aqua.sublime-theme",
-"theme": "itg.flat.light.blue.sublime-theme",
-"theme": "itg.flat.light.green.sublime-theme",
-"theme": "itg.flat.light.orange.sublime-theme",
-"theme": "itg.flat.light.yellow.sublime-theme",
+	// additional (light) color options
+	"theme": "itg.flat.light.aqua.sublime-theme",
+	"theme": "itg.flat.light.blue.sublime-theme",
+	"theme": "itg.flat.light.green.sublime-theme",
+	"theme": "itg.flat.light.orange.sublime-theme",
+	"theme": "itg.flat.light.yellow.sublime-theme",
+}
+{
+	// for a dark theme use:
+	"color_scheme": "Packages/Theme - itg.flat/itg.dark.tmTheme",
 
-// for a dark theme use:
-"color_scheme": "Packages/Theme - itg.flat/itg.dark.tmTheme",
+	// for a light theme use:
+	"color_scheme": "Packages/Theme - itg.flat/itg.light.tmTheme",
+}
+{
+	// small tabs
+	"itg_small_tabs": true,
 
-// for a light theme use:
-"color_scheme": "Packages/Theme - itg.flat/itg.light.tmTheme",
+	// Sidebar padding options
+	"itg_sidebar_tree_xsmall": true,
+	"itg_sidebar_tree_small": true,
+	"itg_sidebar_tree_medium": true,
+	"itg_sidebar_tree_large": true,
+	"itg_sidebar_tree_xlarge": true,
+
+
+	// Scrollbar size options
+	"itg_scrollbar_small": true,
+	"itg_scrollbar_medium": true,
+
+	// if the scrollbar options aren't working, try setting the following
+	"overlay_scroll_bars": "disabled",
+}
+
+/*
+ * Soda
+ */
+{
+    "theme": "Soda Light.sublime-theme",
+}
+{
+    "theme": "Soda Light 3.sublime-theme",
+}
+{
+	"soda_classic_tabs": true,
+	"soda_folder_icons": true,
+}
+
+/*
+ * Solarized Flat
+ */
+{
+    "theme": "Solarized Flat.sublime-theme",
+    "color_scheme": "Packages/Theme - Solarized Flat/Solarized Flat.tmTheme"
+}
+{
+    "always_show_minimap_viewport": true
+}
+
+/*
+ * Solarized Space
+ */
+{
+	// "theme": "Solarized Space Brick.sublime-theme",
+	"theme": "Solarized Space Light.sublime-theme",
+
+	// Solarized Space Brick
+	"theme": "Solarized Space Brick.sublime-theme",
+
+	// Solarized Space Dark
+	"theme": "Solarized Space Dark.sublime-theme",
+
+	// Solarized Space Predawn
+	"theme": "Solarized Space Predawn.sublime-theme",
+}
+{
+	"hide_sidebar_icons": true,
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"enable_tab_scrolling": false,
+	"overlay_scroll_bars": "enabled",
+}
+{
+	// Solarized light with lighter cursor
+	"color_scheme": "Packages/Theme - Solarized Space/Solarized V (Light).tmTheme",
+
+	// Solarized light for MarkdownEditing
+	"color_scheme": "Packages/Theme - Solarized Space/Solarized V Markdown (Light).tmTheme",
 }
