@@ -1,0 +1,78 @@
+/*Preferences*/
+    {
+        "color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",//编辑器主题
+        "draw_indent_guides": true,//沟与文本之间画一条竖线
+        "fade_fold_buttons": false,//隐藏折叠按钮
+        "font_options": [],//文字配置,斜体,加粗等
+        "font_size": 12,//文字大小
+        "gutter": true,//沟,就是一般放行数的那一列东西
+        "highlight_line": true,//高亮编辑中的那一行
+        "ignored_packages": [
+            "APICloudWiFiSync",//APICloud 插件
+            "ConvertToUTF8",//通过本插件，您可以编辑并保存目前编码不被 Sublime Text 支持的文件，特别是中日韩用户使用的 GB2312，GBK，BIG5，EUC-KR，EUC-JP 等。ConvertToUTF8 同时支持 Sublime Text 2 和 3。
+            "Sublime-APICloud-Loader",//APICloud 插件
+            "Sublime-APICloud-Package",//APICloud 插件
+            "Sublime-APICloud-Snippet",//APICloud 插件
+            "Vintage"//进入类似vim 模式。按 esc 键会进入了一个 command mode
+        ],
+        "line_numbers": true,//行数
+        "line_padding_bottom": 5,//文本每行的上内边距
+        "line_padding_top": 5,//文本每行的下内边距
+        "margin": 0,//沟与文本区之间的距离
+        "rulers": [
+            100
+        ],//垂直标尺位置,view - rulers 那里同样可以设置
+        "show_definitions": false,//查看函数是在哪里定义的,hover函数时看
+        "show_encoding": true,//右下角设置编码格式
+        "tab_size": 4,//缩进,右下角可以设置
+        "theme": "Boxy Solarized Light.sublime-theme",//ui主题
+        "translate_tabs_to_spaces": false,//将tabs缩进转为空格缩进
+        "trim_trailing_white_space_on_save": true,//保存文件时,自动清除无用空格
+        "word_wrap": "auto",//内容换行:true 换行,false 不换行 ,auto 自动. view - Word Wrap可以设置
+    }
+
+    /*Package Control*/
+    {
+        "bootstrapped": true,
+        "in_process_packages":
+        [
+        ],
+        "installed_packages":
+        [
+            "All Autocomplete",//根据打开的文件自动补全
+            "AutoFileName",//自动补全文件地址
+            "Boxy Theme",//主题
+            "BracketHighlighter",//成对符号高亮 如html标签 引号"" 括号{}[]
+            "Color Highlighter",//css 颜色高亮
+            "ConvertToUTF8",//通过本插件，您可以编辑并保存目前编码不被 Sublime Text 支持的文件，特别是中日韩用户使用的 GB2312，GBK，BIG5，EUC-KR，EUC-JP 等。ConvertToUTF8 同时支持 Sublime Text 2 和 3。
+            "Emmet",//Emmet语法 快速编写html css
+            "FileDiffs",//检测文件之间的不同
+            "Git",//git插件
+            "GitGutter",//显示git 的修改
+            "HTML-CSS-JS Prettify",//html,js,css代码整理
+            "LESS",//增加less语法
+            "Material Theme",
+            "Monokai - Spacegray",
+            "Monokai Gray",
+            "Nodejs",//nodejs插件 可以直接运行nodejs文件
+            "Package Control",//Package Control,管理全部插件,全部插件的基础,最先安装插件
+            "Predawn",
+            "Predawn Monokai",
+            "SideBarEnhancements",//增强侧边栏(邮件)
+            "Solarized Color Scheme",
+            "SublimeCodeIntel",//代码自动补全引擎 , js jq python ...好多语言都可以(所以好大)
+            "Theme - Asphalt",
+            "Theme - Bamboo",
+            "Theme - Brogrammer",
+            "Theme - Flatland",
+            "Theme - Glacier",
+            "Theme - itg.flat",
+            "Theme - Monokai",
+            "Theme - Soda",
+            "Theme - Sodarized",
+            "Theme - Solarized Flat",
+            "Theme - Solarized Space",
+            "Theme - Spacegray",
+            "View In Browser"//在浏览器打开,现在基本不用
+        ]
+    }
