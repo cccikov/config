@@ -76,3 +76,8 @@
             "View In Browser"//在浏览器打开,现在基本不用
         ]
     }
+
+    /*keymap*/
+    [
+         { "keys": ["f12"], "command": "open_in_browser" }
+    ]

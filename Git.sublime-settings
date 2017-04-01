@@ -1,3 +1,8 @@
 {
 	"git_command": "C:\\Program Files\\Git\\bin\\git.exe"
 }
+
+{
+	"git_command": "D:\\git\\Git\\bin\\git.exe",
+	"gitk_command":"D:\\git\\Git\\bin\\gitk.exe"
+}
