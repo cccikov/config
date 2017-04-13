@@ -58,7 +58,7 @@
             "Package Control",//Package Control,管理全部插件,全部插件的基础,最先安装插件
             "Predawn",
             "Predawn Monokai",
-            "SideBarEnhancements",//增强侧边栏(邮件)
+            "SideBarEnhancements",//增强侧边栏(右键)
             "Solarized Color Scheme",
             "SublimeCodeIntel",//代码自动补全引擎 , js jq python ...好多语言都可以(所以好大)
             "Theme - Asphalt",
