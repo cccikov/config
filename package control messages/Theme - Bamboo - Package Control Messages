@@ -1,0 +1,23 @@
+Package Control Messages
+========================
+
+Theme - Bamboo
+--------------
+
+  Welcome to Bamboo Theme
+  
+  
+  Bamboo Theme for Sublime Text 3
+  https://github.com/gzhihao/bamboo-theme for more info
+  
+  ******************************************************************************
+  To activate the theme, add or replace your current theme settings with the code 
+  below at Sublime Text setting **(Preferences > Setting - User)**:
+  
+  
+  {
+      "color_scheme": "Packages/Theme - Bamboo/Bamboo.tmTheme",
+      "theme": "Bamboo.sublime-theme",
+  }
+  
+  Make sure to **RESTART** Sublime after activate the theme

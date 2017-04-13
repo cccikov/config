@@ -1,0 +1,86 @@
+Package Control Messages
+========================
+
+Predawn
+-------
+
+  
+  
+  :::::::   :::::::   :::::::  :::::::    ::::::   :::  :::  :::  :::::   :::
+  :::  :::  :::  :::  :::      :::  :::  :::  :::  :::  :::  :::  ::::::: :::
+  :::::::   ::::::::  ::::::   :::  :::  ::::::::  :::  :::  :::  ::: :::::::
+  :::       ::: :::   :::      :::  :::  :::  :::  ::: :::: ::::  :::   :::::
+  :::       :::  :::  :::::::  :::::::   :::  :::  ::::::::::::   :::    ::::
+  
+  
+  ==========
+  ACTIVATION
+  ==========
+  
+    "theme": "predawn.sublime-theme",
+    "color_scheme": "Packages/Predawn/predawn.tmTheme",
+  
+  ==============================
+  IMPORTANT - Sublime Text 3062+
+  ==============================
+  
+    "theme": "predawn-DEV.sublime-theme",
+  
+  ============
+  Tabs Options
+  ============
+  
+    "predawn_tabs_active_underline": false,
+    "predawn_tabs_large": false,
+    "predawn_tabs_medium": false,
+    "predawn_tabs_small": false,
+  
+  ===============
+  Sidebar Options
+  ===============
+  
+    "predawn_sidebar_arrows": false,
+    "predawn_sidebar_large": false,
+    "predawn_sidebar_medium": false,
+    "predawn_sidebar_small": false,
+    "predawn_sidebar_xlarge": false,
+    "predawn_sidebar_xsmall": false,
+    "predawn_sidebar_narrow": false,
+  
+  =============
+  Panel Options
+  =============
+  
+    "predawn_findreplace_small": false,
+    "predawn_quick_panel_small": false,
+  
+  
+  ===============================================================
+  I've put a lot of time and effort into making Predawn awesome.
+  If you love it, please consider helping me make it even better!
+  ===============================================================
+  
+   ___   _   _  __   __    __  __   ___
+  | _ ) | | | | \ \ / /   |  \/  | | __|
+  | _ \ | |_| |  \ V /    | |\/| | | _|
+  |___/  \___/    |_|     |_|  |_| |___|
+     _        ___    ___    ___   ___   ___   ___   ___
+    /_\      / __|  / _ \  | __| | __| | __| | __| |__ \
+   / _ \    | (__  | (_) | | _|  | _|  | _|  | _|    /_/
+  /_/ \_\    \___|  \___/  |_|   |_|   |___| |___|  (_)
+  
+  https://plasso.co/s/ZezNW6UhHv/
+  
+    ___   ___
+   / _ \ | _ \
+  | (_) ||   /
+   \___/ |_|_\
+  
+  If you want to put your money to really good use:
+  
+  ===================================
+  HELP PROTECT THE POOR FROM VIOLENCE
+  ===================================
+  
+  Give to the International Justice Mission:
+  https://www.ijm.org/make-gift

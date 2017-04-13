@@ -41,7 +41,7 @@
         [
             "All Autocomplete",//根据打开的文件自动补全
             "AutoFileName",//自动补全文件地址
-            "Boxy Theme",//主题
+            "Boxy Theme",//主题 安装这个的时候会提示安装一个A File Icon 插件，不要按确定，安装之后那些文件图标就改不回来了
             "BracketHighlighter",//成对符号高亮 如html标签 引号"" 括号{}[]
             "Color Highlighter",//css 颜色高亮 !!!!!!!!!!!!!在win7家庭普通版会出现性能问题
             "ConvertToUTF8",//通过本插件，您可以编辑并保存目前编码不被 Sublime Text 支持的文件，特别是中日韩用户使用的 GB2312，GBK，BIG5，EUC-KR，EUC-JP 等。ConvertToUTF8 同时支持 Sublime Text 2 和 3。
@@ -51,7 +51,7 @@
             "GitGutter",//显示git 的修改
             "HTML-CSS-JS Prettify",//html,js,css代码整理
             "LESS",//增加less语法
-            "Material Theme",
+            "Material Theme",////主题 安装这个的时候会提示安装一个A File Icon 插件，不要按确定，安装之后那些文件图标就改不回来了
             "Monokai - Spacegray",
             "Monokai Gray",
             "Nodejs",//nodejs插件 可以直接运行nodejs文件
