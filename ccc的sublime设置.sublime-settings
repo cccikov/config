@@ -77,6 +77,19 @@
         ]
     }
 
+    /*主题问题*/
+    {
+        // 以下几个主题都包含icon包，如果处于活动非忽略状态，会导致默认icon消失。但是当是使用boxy material主题时，不忽略他们其中一个，会使图标变得更好看
+        "zhuti":[
+            "Predawn",
+            "Theme - Bamboo",
+            "Theme - Solarized Space",
+            "Theme - Spacegray",
+            "A File Icon",//这个也是带有图标的
+        ]
+
+    }
+
     /*keymap*/
     [
          { "keys": ["f12"], "command": "open_in_browser" }
