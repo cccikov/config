@@ -1,0 +1,29 @@
+CSS Extended Completions
+------------------------
+
+  CSS Extended Completions
+
+  Save any file you're working on to add its CSS/LESS/SCSS symbols to the completion index.
+
+  The following completions are provided:
+
+  - Extended CSS property/values
+  - CSS class names
+  - CSS IDs
+  - LESS variables/mixins/classes
+  - SCSS variables/mixins/classes
+
+  Available Options
+
+  - Options for what scopes trigger completions
+  - Option to auto clear cache on close.
+    Set "save_cache_to_file":false (defaults to true)
+  - Auto load css/less/scss from external folders
+    Example: "load_external_files":["/some/folder", "/another/folder"]
+    (Must be absolute paths)
+  - Option to adjust what pseudo selectors are added to completions
+  - And more, just checkout the Default Settings file
+    Preferences > Package Settings > CSS Extended Completions
+
+
+  To delete your cache, open the command palette and type 'CSS delete cache'
