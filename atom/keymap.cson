@@ -47,3 +47,9 @@
     'ctrl-f12':'atom-html-preview:toggle'
     'ctrl-shift-h': 'atom-beautify:beautify-editor'
     'f12': 'open-in-browsers:toggle'
+
+'atom-workspace atom-text-editor:not([mini])':
+    'ctrl-shift-up':'editor:move-line-up'
+    'ctrl-shift-down':'editor:move-line-down'
+    'ctrl-up':'native!'
+    'ctrl-down':'native!'
