@@ -53,3 +53,25 @@
     'ctrl-shift-down':'editor:move-line-down'
     'ctrl-up':'native!'
     'ctrl-down':'native!'
+
+
+
+# ubuntu
+#
+# '.platform-win32, .platform-linux':
+#     'ctrl-shift-g': 'git-plus:menu'
+#     'ctrl-shift-h': 'atom-beautify:beautify-editor'
+#     # 'f12': 'open-in-browser:open'
+#
+# 'atom-text-editor':
+#     'ctrl-shift-h': 'atom-beautify:beautify-editor'
+#     # 'f12': 'open-in-browser:open'
+#
+# 'atom-text-editor[data-grammar~=html]':
+#     'ctrl-f12':'atom-html-preview:toggle'
+#     'ctrl-shift-h': 'atom-beautify:beautify-editor'
+#     # 'f12': 'open-in-browser:open'
+#
+# '.platform-linux atom-workspace atom-text-editor':
+#     'f12': 'open-in-browser:open'
+#     'ctrl-shift-Q':'autoflow:reflow-selection'
