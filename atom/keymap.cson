@@ -57,6 +57,13 @@
 'body':
     'ctrl-shift-v':'core:paste'
 
+".platform-win32 atom-text-editor":
+    "ctrl-f2":"bookmarks:toggle-bookmark"
+
+'atom-workspace atom-text-editor:not([mini])[data-grammar^="source ts"]':
+    "f2":"bookmarks:jump-to-next-bookmark"
+
+
 
 # ubuntu
 #
