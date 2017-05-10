@@ -32,7 +32,6 @@
 # https://atom.io/docs/latest/using-atom-basic-customization#cson
 
 
-
 '.platform-win32, .platform-linux':
     'ctrl-shift-g': 'git-plus:menu'
     'ctrl-shift-h': 'atom-beautify:beautify-editor'
@@ -51,9 +50,12 @@
 'atom-workspace atom-text-editor:not([mini])':
     'ctrl-shift-up':'editor:move-line-up'
     'ctrl-shift-down':'editor:move-line-down'
-    'ctrl-up':'native!'
-    'ctrl-down':'native!'
+    'ctrl-up':'emmet:increment-number-by-1'
+    'ctrl-down':'emmet:decrement-number-by-1'
+    'ctrl-shift-m':'markdown-preview:toggle'
 
+'body':
+    'ctrl-shift-v':'core:paste'
 
 
 # ubuntu
