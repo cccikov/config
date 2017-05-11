@@ -73,7 +73,9 @@
             "Theme - Solarized Flat",
             "Theme - Solarized Space",
             "Theme - Spacegray",
+            "DocBlockr",//注释增强插件，但是有可能会影响操作;一般修改配置 "jsdocs_decorate": false,"jsdocs_extend_double_slash": false,
             "IMESupport",//增强对输入法之前，添加前，使用输入法时候，会在sublime失去光标焦点，就是输入法的选框不能显示在光标附近
+            "Markdown Preview",//预览markdown，"enable_autoreload": true保存立即改变生成的html；快捷键{ "keys": ["ctrl+f12"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} },
             "View In Browser"//在浏览器打开,现在基本不用
         ]
     }
