@@ -54,7 +54,7 @@
     'ctrl-down':'emmet:decrement-number-by-1'
     'ctrl-shift-m':'markdown-preview:toggle'
 
-''body':
+'body':
     'ctrl-shift-v':'core:paste'
     # ctrl+,默认弹出搜狗输入法，以下是为了搜狗
     'ctrl-.':'application:show-settings'
