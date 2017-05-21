@@ -41,7 +41,6 @@
         [
             "All Autocomplete",//根据打开的文件自动补全
             "AutoFileName",//自动补全文件地址
-            "Boxy Theme",//主题 安装这个的时候会提示安装一个A File Icon 插件，不要按确定，安装之后那些文件图标就改不回来了
             "BracketHighlighter",//成对符号高亮 如html标签 引号"" 括号{}[]
             "Color Highlighter",//css 颜色高亮 !!!!!!!!!!!!!在win7家庭普通版会出现性能问题
             "ConvertToUTF8",//通过本插件，您可以编辑并保存目前编码不被 Sublime Text 支持的文件，特别是中日韩用户使用的 GB2312，GBK，BIG5，EUC-KR，EUC-JP 等。ConvertToUTF8 同时支持 Sublime Text 2 和 3。
@@ -51,16 +50,19 @@
             "GitGutter",//显示git 的修改
             "HTML-CSS-JS Prettify",//html,js,css代码整理
             "LESS",//增加less语法
-            "Material Theme",////主题 安装这个的时候会提示安装一个A File Icon 插件，不要按确定，安装之后那些文件图标就改不回来了
-            "Monokai - Spacegray",
-            "Monokai Gray",
             "Nodejs",//nodejs插件 可以直接运行nodejs文件
             "Package Control",//Package Control,管理全部插件,全部插件的基础,最先安装插件
+            "SideBarEnhancements",//增强侧边栏(右键)
+            "SublimeCodeIntel",//代码自动补全引擎 , js jq python ...好多语言都可以(所以好大)
+
+            "Boxy Theme",//主题 安装这个的时候会提示安装一个A File Icon 插件，不要按确定，安装之后那些文件图标就改不回来了
+            "Material Theme",////主题 安装这个的时候会提示安装一个A File Icon 插件，不要按确定，安装之后那些文件图标就改不回来了
+
+            "Monokai - Spacegray",
+            "Monokai Gray",
             "Predawn",
             "Predawn Monokai",
-            "SideBarEnhancements",//增强侧边栏(右键)
             "Solarized Color Scheme",
-            "SublimeCodeIntel",//代码自动补全引擎 , js jq python ...好多语言都可以(所以好大)
             "Theme - Asphalt",
             "Theme - Bamboo",
             "Theme - Brogrammer",
@@ -73,6 +75,7 @@
             "Theme - Solarized Flat",
             "Theme - Solarized Space",
             "Theme - Spacegray",
+
             "DocBlockr",//注释增强插件，但是有可能会影响操作;一般修改配置 "jsdocs_decorate": false,"jsdocs_extend_double_slash": false,
             "IMESupport",//增强对输入法之前，添加前，使用输入法时候，会在sublime失去光标焦点，就是输入法的选框不能显示在光标附近
             "Markdown Preview",//预览markdown，"enable_autoreload": true保存立即改变生成的html；快捷键{ "keys": ["ctrl+f12"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} },
