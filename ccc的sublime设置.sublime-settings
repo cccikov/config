@@ -55,31 +55,37 @@
             "SideBarEnhancements",//增强侧边栏(右键)
             "SublimeCodeIntel",//代码自动补全引擎 , js jq python ...好多语言都可以(所以好大)
 
-            "Boxy Theme",//主题 安装这个的时候会提示安装一个A File Icon 插件，不要按确定，安装之后那些文件图标就改不回来了
-            "Material Theme",////主题 安装这个的时候会提示安装一个A File Icon 插件，不要按确定，安装之后那些文件图标就改不回来了
+            "Boxy Theme",// 111K TOP 100 主题 安装这个的时候会提示安装一个A File Icon 插件，不要按确定，安装之后那些文件图标就改不回来了
+            "Material Theme",// 411K TOP 25  主题 安装这个的时候会提示安装一个A File Icon 插件，不要按确定，安装之后那些文件图标就改不回来了
 
-            "Monokai - Spacegray",
-            "Monokai Gray",
-            "Predawn",
-            "Predawn Monokai",
-            "Solarized Color Scheme",
-            "Theme - Asphalt",
-            "Theme - Bamboo",
-            "Theme - Brogrammer",
-            "Theme - Flatland",
-            "Theme - Glacier",
-            "Theme - itg.flat",
-            "Theme - Monokai",
-            "Theme - Soda",
-            "Theme - Sodarized",
-            "Theme - Solarized Flat",
-            "Theme - Solarized Space",
-            "Theme - Spacegray",
+            "Theme - Soda",// 732K TOP 25
+            "Theme - Spacegray",// 334K TOP 100
+            "Theme - Flatland",// 212K TOP 100
+            "Predawn",// 147K TOP 100
+            "Theme - Brogrammer",// 113K TOP 100
+            "Theme - itg.flat",// 89K
+            "Solarized Color Scheme",// 65K
+            "Theme - Sodarized",// 53K
+            "Monokai - Spacegray",// 44K
+            "Theme - Glacier",// 36K
+            "Oceanic Next Color Scheme",// 32K
+            "Theme - Asphalt",// 26K
+            "Predawn Monokai",// 20K
+            "Theme - Monokai",// 17K
+            "Monokai Gray",// 11K
+            "Theme - Solarized Space",// 10K 个人比较喜欢
+            "Theme - Solarized Flat",// 8K
+            "Theme - Bamboo",// 5K
 
             "DocBlockr",//注释增强插件，但是有可能会影响操作;一般修改配置 "jsdocs_decorate": false,"jsdocs_extend_double_slash": false,
             "IMESupport",//增强对输入法之前，添加前，使用输入法时候，会在sublime失去光标焦点，就是输入法的选框不能显示在光标附近
             "Markdown Preview",//预览markdown，"enable_autoreload": true保存立即改变生成的html；快捷键{ "keys": ["ctrl+f12"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} },
-            "View In Browser"//在浏览器打开,现在基本不用
+            "View In Browser",//在浏览器打开,现在基本不用
+            "Babel",// 248K TOP 100
+            "css3",// 201K TOP 100
+            "CSS Extended Completions",// 49K
+            "JavaScript Completions",// 216K TOP 100
+            "jQuery",// 699K TOP 25
         ]
     }
 
