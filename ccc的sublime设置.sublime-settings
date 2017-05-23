@@ -22,6 +22,7 @@
         "rulers": [
             100
         ],//垂直标尺位置,view - rulers 那里同样可以设置
+        "wrap_width":80,//超过这个长度,就会换行 view - word wrap column可以设置
         "show_definitions": false,//查看函数是在哪里定义的,hover函数时看
         "show_encoding": true,//右下角设置编码格式
         "tab_size": 4,//缩进,右下角可以设置
