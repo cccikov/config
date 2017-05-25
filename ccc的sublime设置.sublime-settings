@@ -20,9 +20,9 @@
         "line_padding_top": 5,//文本每行的下内边距
         "margin": 0,//沟与文本区之间的距离
         "rulers": [
-            100
-        ],//垂直标尺位置,view - rulers 那里同样可以设置
-        "wrap_width":80,//超过这个长度,就会换行 view - word wrap column可以设置
+            80,100, 120,140
+        ],//垂直标尺位置,view - rulers 那里同样可以设置(不过只能一条,这里可以多条)
+        "wrap_width":80,//超过这个长度,就会换行 view - word wrap column可以设置(一般不要设置,设置了之后相当于设死了,只有这个宽度才会换行;如果比它还窄的时候,就会出现横向滚动条)
         "show_definitions": false,//查看函数是在哪里定义的,hover函数时看
         "show_encoding": true,//右下角设置编码格式
         "tab_size": 4,//缩进,右下角可以设置

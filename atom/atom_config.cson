@@ -1,0 +1,54 @@
+"*":
+  "activate-power-mode":
+    autoToggle: false
+  "atom-package-deps":
+    ignored: []
+  "autocomplete-python":
+    useKite: false
+  core:
+    closeEmptyWindows: false
+    destroyEmptyPanes: false
+    disabledPackages: [
+      "atom-python-run"
+      "atomic-chrome"
+      "autocomplete-python"
+      "browser-plus"
+      "activate-power-mode"
+    ]
+    openEmptyEditorOnStart: false
+    packagesWithKeymapsDisabled: [
+      "open-in-browsers"
+      "atom-beautify"
+      "atom-html-preview"
+      "project-manager"
+    ]
+    telemetryConsent: "no"
+    themes: [
+      "atom-material-ui"
+      "solarized-light-syntax"
+    ]
+  editor:
+    fontSize: 16
+    preferredLineLength: 120
+    scrollPastEnd: true
+    softTabs: false
+    softWrap: true
+    softWrapAtPreferredLineLength: true
+    softWrapHangingIndent: 1
+    tabLength: 4
+  "exception-reporting":
+    userId: "566ba023-d193-4b1f-bc11-d3f4c519563c"
+  "linter-ui-default":
+    showPanel: true
+  minimap: {}
+  "open-in-browsers":
+    BrowserPlus: false
+    Opera: false
+    Safari: false
+    browsers: [
+      "IE"
+      "Chrome"
+      "Firefox"
+    ]
+  welcome:
+    showOnStartup: false
