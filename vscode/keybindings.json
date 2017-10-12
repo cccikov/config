@@ -1,5 +1,6 @@
 // 将键绑定放入此文件中以覆盖默认值
-[{
+[
+    {
         "key": "f12",
         "command": "extension.open"
     },
@@ -84,5 +85,20 @@
     {
         "key": "ctrl+b",
         "command": "-workbench.action.toggleSidebarVisibility"
+    },
+    {
+        "key": "shift+alt+f",
+        "command": "-editor.action.formatDocument",
+        "when": "editorHasDocumentFormattingProvider && editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "shift+alt+f",
+        "command": "extension.relativePath",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+shift+h",
+        "command": "-extension.relativePath",
+        "when": "editorTextFocus"
     }
 ]
