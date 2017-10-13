@@ -100,5 +100,9 @@
         "key": "ctrl+shift+h",
         "command": "-extension.relativePath",
         "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+shift+h",
+        "command": "beautify.format"
     }
 ]
