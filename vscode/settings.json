@@ -36,8 +36,15 @@
         "editor.fontFamily": "Consolas,'微软雅黑', 'Courier New', monospace",
         "editor.lineHeight": 27,
         "editor.renderLineHighlight": "gutter",
-        "workbench.colorTheme": "Material",
-        "workbench.iconTheme": "eq-material-theme-icons"
+        "workbench.colorTheme": "Default Light+",
+        "git.confirmSync": false,
+        "workbench.iconTheme": "eq-material-theme-icons",
+        "vsicons.dontShowNewVersionMessage": true,
+        "git.enableSmartCommit": true,
+        "emmet.variables": {
+            "lang": "zh-CN",
+            "charset": "UTF-8"
+        }
     },
 
 
