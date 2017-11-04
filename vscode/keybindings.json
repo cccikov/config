@@ -71,14 +71,6 @@
         "when": "editorTextFocus"
     },
     {
-        "key": "alt+p alt+s",
-        "command": "projectManager.listProjects"
-    },
-    {
-        "key": "shift+alt+p",
-        "command": "-projectManager.listProjects"
-    },
-    {
         "key": "alt+p alt+a",
         "command": "projectManager.saveProject"
     },
