@@ -36,6 +36,10 @@
     }
 
     /*主题文件里面的设置*/
+    /**
+     * 菜单栏 -> Preferences -> Browse packages -> 进入 User 文件夹
+     * 找到当前主题对应的配置文件(如: Default.sublime-theme 或 Material-Theme.sublime-theme)
+     */
     [
         // 标题栏
         {
