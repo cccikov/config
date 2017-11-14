@@ -4,5 +4,5 @@
 
 [
     { "keys": ["f12"], "command": "open_in_browser" },
-    { "keys": ["ctrl+f12"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} },
+    { "keys": ["ctrl+f12"], "command": "markdown_preview", "args": {"target": "browser", "parser":"github"} }
 ]
