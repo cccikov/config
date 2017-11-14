@@ -35,6 +35,25 @@
         "update_check": false,// 自动检查更新 , 虽然在左边默认值那边没有 (据说还要有LICENSE(许可证,已经购买了的意思)才可以)
     }
 
+    /*主题文件里面的设置*/
+    /**
+     * 菜单栏 -> Preferences -> Browse packages -> 进入 User 文件夹
+     * 找到当前主题对应的配置文件(如: Default.sublime-theme 或 Material-Theme.sublime-theme)
+     */
+    [
+        // 标题栏
+        {
+            "class": "tab_label",
+            "font.size": 11
+        },
+        // 侧栏
+        {
+            "class": "sidebar_label",
+            "font.size": 13
+        }
+    ]
+
+
     /*Package Control*/
     {
         "bootstrapped": true,
