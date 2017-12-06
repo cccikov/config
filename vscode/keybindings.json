@@ -1,6 +1,6 @@
 // 将键绑定放入此文件中以覆盖默认值
-[
-    {
+// 将键绑定放入此文件中以覆盖默认值
+[{
         "key": "f12",
         "command": "extension.open"
     },
@@ -96,5 +96,44 @@
     {
         "key": "ctrl+shift+h",
         "command": "beautify.format"
+    },
+    {
+        "key": "ctrl+f2",
+        "command": "bookmarks.toggle",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+alt+k",
+        "command": "-bookmarks.toggle",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "f2",
+        "command": "bookmarks.jumpToNext",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+alt+l",
+        "command": "-bookmarks.jumpToNext",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "shift+f2",
+        "command": "bookmarks.jumpToPrevious",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+alt+j",
+        "command": "-bookmarks.jumpToPrevious",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+shift+f2",
+        "command": "bookmarks.clearFromFile"
+    },
+    { // tab 不选择系统提示(一般提示是 系统提示 emmet提示) , 在配置里面先设置"emmet.triggerExpansionOnTab": true  ,  tab按照emmet语法展开 , 甚至有些css如tac ta-l这些都没有出现在提示中 , 但是还是会自动按照emmet补全 ; enter保持按照提示顺序选择提示
+        "key": "tab",
+        "command": "-acceptSelectedSuggestion",
+        "when": "editorTextFocus && suggestWidgetVisible"
     }
 ]
