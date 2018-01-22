@@ -23,33 +23,32 @@
 
     // 公司
     {
-        "editor.fontSize": 16,
+        "editor.fontSize": 14,
         "editor.rulers": [
-            120
+            150
         ],
         "editor.minimap.enabled": true,
         "window.zoomLevel": 0,
         "extensions.autoUpdate": true,
-        "editor.wordWrap": "wordWrapColumn",
-        "editor.wordWrapColumn": 120,
         "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
         "editor.fontFamily": "Consolas,'微软雅黑', 'Courier New', monospace",
         "editor.lineHeight": 27,
         "editor.renderLineHighlight": "gutter",
-        "workbench.colorTheme": "Material",
         "git.confirmSync": false,
-        "workbench.iconTheme": "eq-material-theme-icons",
         "vsicons.dontShowNewVersionMessage": true,
-        "git.enableSmartCommit": true,
         "emmet.variables": {
             "lang": "zh-CN",
             "charset": "UTF-8"
-        }, // ! 出现HTML是 , lang 和charset的值
+        },
         "sublimeTextKeymap.promptV3Features": true,
-        "editor.multiCursorModifier": "ctrlCmd", // 多光标选择使用的键盘快捷键为ctrl ctrl+鼠标左键
+        "editor.multiCursorModifier": "ctrlCmd",
         "editor.snippetSuggestions": "top",
-        "editor.formatOnPaste": true,
-        "emmet.triggerExpansionOnTab": true // vscode一般是在输入的时候按tab才可以触发emmet , 按了Esc后按tab是不会自动补全 , 这个设为true后就算按了Esc后也会自动按照emmet补全html
+        "editor.formatOnPaste": false,
+        "emmet.triggerExpansionOnTab": true,
+        "files.autoSave": "off",
+        "workbench.colorTheme": "Quiet Light",
+        "workbench.activityBar.visible": false,
+        "workbench.iconTheme": "vscode-icons"
     },
 
 
