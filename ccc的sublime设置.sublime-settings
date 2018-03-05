@@ -73,7 +73,8 @@
             "GitGutter",//显示git 的修改
             "HTML-CSS-JS Prettify",//html,js,css代码整理
             "LESS",//增加less语法
-            "Nodejs",//nodejs插件 可以直接运行nodejs文件
+            // "Nodejs",//nodejs插件 可以直接运行nodejs文件 // 由于比较复杂 , 暂时不用 使用 Java​Script & Node​JS Snippets 替代
+            "Java​Script & Node​JS Snippets", // 一个nodejs语法提示插件
             "Package Control",//Package Control,管理全部插件,全部插件的基础,最先安装插件
             "SideBarEnhancements",//增强侧边栏(右键)
             "SublimeCodeIntel",//代码自动补全引擎 , js jq python ...好多语言都可以(所以好大)

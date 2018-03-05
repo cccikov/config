@@ -17,7 +17,7 @@
 		"LESS",
 		"Material Theme",
 		"Monokai - Spacegray",
-		"Nodejs",
+		// "Nodejs", // 由于比较复杂 , 暂时不用 使用 Java​Script & Node​JS Snippets 替代
 		"Package Control",
 		"Predawn",
 		"Predawn Monokai",
