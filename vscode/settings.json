@@ -73,7 +73,8 @@
         "vsicons.dontShowNewVersionMessage": true,
         "sublimeTextKeymap.promptV3Features": true,
         "editor.multiCursorModifier": "ctrlCmd",
-        "editor.snippetSuggestions": "top",
+        "emmet.showSuggestionsAsSnippets": true,
+        "editor.snippetSuggestions": "top", // 加上上面的设置 showSuggestionsAsSnippets true emmet 的 提示就会是最前了
         "emmet.triggerExpansionOnTab": true,
         "git.path": "D:\\git\\Git\\bin\\git.exe",
         "git.autofetch": true,
