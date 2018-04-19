@@ -130,10 +130,5 @@
     {
         "key": "ctrl+shift+f2",
         "command": "bookmarks.clearFromFile"
-    },
-    { // tab 不选择系统提示(一般提示是 系统提示 emmet提示) , 在配置里面先设置"emmet.triggerExpansionOnTab": true  ,  tab按照emmet语法展开 , 甚至有些css如tac ta-l这些都没有出现在提示中 , 但是还是会自动按照emmet补全 ; enter保持按照提示顺序选择提示
-        "key": "tab",
-        "command": "-acceptSelectedSuggestion",
-        "when": "editorTextFocus && suggestWidgetVisible"
     }
 ]

@@ -54,18 +54,35 @@
 
     // 家里
     {
-        "editor.fontSize": 16,
-        "editor.rulers": [80, 100, 120],
-        "workbench.iconTheme": "eq-material-theme-icons",
+        "editor.fontSize": 14,
+        "editor.rulers": [
+            80,
+            100,
+            120
+        ],
         "editor.minimap.enabled": true,
         "window.zoomLevel": 0,
         "extensions.autoUpdate": true,
-        "editor.wordWrap": "bounded",
+        "editor.wordWrap": "wordWrapColumn",
         "editor.wordWrapColumn": 120,
         "editor.fontFamily": "Consolas, 微软雅黑,'Courier New', monospace",
-        "workbench.colorTheme": "Material",
         "terminal.integrated.shell.windows": "D:\\git\\Git\\bin\\bash.exe",
-        "editor.lineHeight": 32
+        "editor.lineHeight": 32,
+        "git.confirmSync": false,
+        "workbench.sideBar.location": "left",
+        "vsicons.dontShowNewVersionMessage": true,
+        "sublimeTextKeymap.promptV3Features": true,
+        "editor.multiCursorModifier": "ctrlCmd",
+        "emmet.showSuggestionsAsSnippets": true,
+        "editor.snippetSuggestions": "top", // 加上上面的设置 showSuggestionsAsSnippets true emmet 的 提示就会是最前了
+        "emmet.triggerExpansionOnTab": true,
+        "git.path": "D:\\git\\Git\\bin\\git.exe",
+        "git.autofetch": true,
+        "workbench.activityBar.visible": true,
+        "window.menuBarVisibility": "default",
+        "workbench.colorTheme": "Material",
+        "workbench.startupEditor": "newUntitledFile",
+        "workbench.iconTheme": "vscode-icons"
     },
 
     {
