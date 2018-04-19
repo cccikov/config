@@ -67,17 +67,17 @@
             "BracketHighlighter",//成对符号高亮 如html标签 引号"" 括号{}[]
             "Color Highlighter",//css 颜色高亮 !!!!!!!!!!!!!在win7家庭普通版会出现性能问题
             "ConvertToUTF8",//通过本插件，您可以编辑并保存目前编码不被 Sublime Text 支持的文件，特别是中日韩用户使用的 GB2312，GBK，BIG5，EUC-KR，EUC-JP 等。ConvertToUTF8 同时支持 Sublime Text 2 和 3。
-            "Emmet",//Emmet语法 快速编写html css
+            "Emmet",// !!!!必装 Emmet语法 快速编写html css
             "FileDiffs",//检测文件之间的不同
             "Git",//git插件
             "GitGutter",//显示git 的修改
             "HTML-CSS-JS Prettify",//html,js,css代码整理
             "LESS",//增加less语法
             // "Nodejs",//nodejs插件 可以直接运行nodejs文件 // 由于比较复杂 , 暂时不用 使用 Java​Script & Node​JS Snippets 替代
-            "Java​Script & Node​JS Snippets", // 一个nodejs语法提示插件
-            "Package Control",//Package Control,管理全部插件,全部插件的基础,最先安装插件
-            "SideBarEnhancements",//增强侧边栏(右键)
-            "SublimeCodeIntel",//代码自动补全引擎 , js jq python ...好多语言都可以(所以好大)
+            "Java​Script & Node​JS Snippets", //  一个nodejs语法提示插件
+            "Package Control",// Package Control,管理全部插件,全部插件的基础,最先安装插件
+            "SideBarEnhancements",// 增强侧边栏(右键)
+            "SublimeCodeIntel",// !!!!必装 代码自动补全引擎 , js jq python ...好多语言都可以(所以好大)
 
             "Boxy Theme",// 111K TOP 100 主题 安装这个的时候会提示安装一个A File Icon 插件，不要按确定，安装之后那些文件图标就改不回来了
             "Material Theme",// 411K TOP 25  主题 安装这个的时候会提示安装一个A File Icon 插件，不要按确定，安装之后那些文件图标就改不回来了
