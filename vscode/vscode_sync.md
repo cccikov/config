@@ -25,10 +25,12 @@
         # ...
     ```
 
-    其中`GitHub Gist`就是GitHub Gist ID
+    其中`GitHub Gist`就是`GitHub Gist ID`
 
     [https://gist.github.com/cccikov/ba6177381ca10c759bac910de257c867](https://gist.github.com/cccikov/ba6177381ca10c759bac910de257c867)可以浏览配置（好像要翻墙才可以访问）
 
 ## 下载配置
 
-1. ctrl + shift + p，`Downlaod Settings`会提示输入GitHub Gist ID，输入好后会自动下载设置
+1. ctrl + shift + p，输入`Downlaod Settings`会分别提示输入 `token` 和 `GitHub Gist ID`，输入好后会自动下载设置
+
+2. 如果输出错误，可以通过 ctrl + shift + p 输入`Reset Extension Settings` 重新设置
