@@ -1,0 +1,36 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"All Autocomplete",
+		"AutoFileName",
+		"Babel",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"CSS3",
+		"DocBlockr",
+		"Emmet",
+		"FileDiffs",
+		"Git",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"IMESupport",
+		"JavaScript & NodeJS Snippets",
+		"JavaScript Completions",
+		"JavaScriptNext - ES6 Syntax",
+		"jQuery",
+		"LESS",
+		"Markdown Preview",
+		"Material Theme",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Theme - Solarized Space",
+		"View In Browser"
+	]
+}
