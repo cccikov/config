@@ -8,7 +8,7 @@
 
 2. 从范围中选择`Gist`。点击`Generate token`生成令牌（token）。将token保存起来供将来使用，因为刷新页面，token将消失
 
-    `d729170bbd0a6e1650d35fa5caf85ad7141ffc73`
+    `f9dbc678e1b8a783d3431c2d4fc9cf9fd24943a5`
 
 3. ctrl + shift + p，`Upload Settings`会提示输入token，输入好后会自动上传设置，并在控制输入上传信息
 
@@ -16,8 +16,8 @@
         # CODE SETTINGS SYNC UPLOAD SUMMARY
         # Version: 2.9.0
         # --------------------
-        # GitHub Token: d729170bbd0a6e1650d35fa5caf85ad7141ffc73
-        # GitHub Gist: ba6177381ca10c759bac910de257c867
+        # GitHub Token: f9dbc678e1b8a783d3431c2d4fc9cf9fd24943a5
+        # GitHub Gist: 6a28ec9c13e98517d90de47e02e61c0e
         # GitHub Gist Type: Secret
         # ...
         # ...
@@ -27,7 +27,7 @@
 
     其中`GitHub Gist`就是`GitHub Gist ID`
 
-    [https://gist.github.com/cccikov/ba6177381ca10c759bac910de257c867](https://gist.github.com/cccikov/ba6177381ca10c759bac910de257c867)可以浏览配置（好像要翻墙才可以访问）
+    [https://gist.github.com/cccikov/6a28ec9c13e98517d90de47e02e61c0e](https://gist.github.com/cccikov/6a28ec9c13e98517d90de47e02e61c0e)可以浏览配置（好像要翻墙才可以访问）
 
 ## 下载配置
 
