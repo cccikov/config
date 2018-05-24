@@ -9,6 +9,7 @@
 2. 从范围中选择`Gist`。点击`Generate token`生成令牌（token）。将token保存起来供将来使用，因为刷新页面，token将消失
 
     `f9dbc678e1b8a783d3431c2d4fc9cf9fd24943a5`
+    `8420578bc68b0e37348a093373487a6b29388c23`
 
 3. ctrl + shift + p，`Upload Settings`会提示输入token，输入好后会自动上传设置，并在控制输入上传信息
 
