@@ -12,7 +12,7 @@
 
     home_sync:`57eeb029b80216b32b8c4e6950a9e67683a229e5`
 
-    acer_vscode: `82355dcf8d97d1f894163e73691b7d658cdded46`
+    vscode_sync:`82738f54dda1a451e555d61313dc11ab183d5c54`
 
 3. ctrl + shift + p，`Upload Settings`会提示输入token，输入好后会自动上传设置，并在控制输入上传信息
 
