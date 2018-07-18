@@ -8,7 +8,9 @@
 
 2. 从范围中选择`Gist`。点击`Generate token`生成令牌（token）。将token保存起来供将来使用，因为刷新页面，token将消失。值得注意的事，一个token只能一个设备使用
 
-    `1cfdc1edd636846db61fb55edda5bb6bdde0cbc6`
+    `57eeb029b80216b32b8c4e6950a9e67683a229e5`
+
+    home_sync:`57eeb029b80216b32b8c4e6950a9e67683a229e5`
 
     acer_vscode: `82355dcf8d97d1f894163e73691b7d658cdded46`
 
@@ -18,7 +20,7 @@
         # CODE SETTINGS SYNC UPLOAD SUMMARY
         # Version: 2.9.0
         # --------------------
-        # GitHub Token: 1cfdc1edd636846db61fb55edda5bb6bdde0cbc6
+        # GitHub Token: 57eeb029b80216b32b8c4e6950a9e67683a229e5
         # GitHub Gist: 6a28ec9c13e98517d90de47e02e61c0e
         # GitHub Gist Type: Secret
         # ...
@@ -28,6 +30,8 @@
     ```
 
     其中`GitHub Gist`就是`GitHub Gist ID` 即系 `6a28ec9c13e98517d90de47e02e61c0e`
+
+    第二个 `7d3d035440439dd4d37876e0225cfff0`
 
     [https://gist.github.com/cccikov/6a28ec9c13e98517d90de47e02e61c0e](https://gist.github.com/cccikov/6a28ec9c13e98517d90de47e02e61c0e)可以浏览配置（好像要翻墙才可以访问）
 
