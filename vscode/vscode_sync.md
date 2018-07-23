@@ -8,11 +8,11 @@
 
 2. 从范围中选择`Gist`。点击`Generate token`生成令牌（token）。将token保存起来供将来使用，因为刷新页面，token将消失。值得注意的事，一个token只能一个设备使用
 
-    `57eeb029b80216b32b8c4e6950a9e67683a229e5`
+    `d0dbe1fc95fcc633ebb36061999bb4e246770cc3`
 
-    home_sync:`57eeb029b80216b32b8c4e6950a9e67683a229e5`
+    home_sync:`d0dbe1fc95fcc633ebb36061999bb4e246770cc3`
 
-    acer_vscode: `82355dcf8d97d1f894163e73691b7d658cdded46`
+    acer_sync:`e906dca419147d69dd43e0661ae032dfa350cad4`
 
 3. ctrl + shift + p，`Upload Settings`会提示输入token，输入好后会自动上传设置，并在控制输入上传信息
 
@@ -20,7 +20,7 @@
         # CODE SETTINGS SYNC UPLOAD SUMMARY
         # Version: 2.9.0
         # --------------------
-        # GitHub Token: 57eeb029b80216b32b8c4e6950a9e67683a229e5
+        # GitHub Token: d0dbe1fc95fcc633ebb36061999bb4e246770cc3
         # GitHub Gist: 6a28ec9c13e98517d90de47e02e61c0e
         # GitHub Gist Type: Secret
         # ...
