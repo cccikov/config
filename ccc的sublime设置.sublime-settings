@@ -73,8 +73,8 @@
             "GitGutter",//显示git 的修改
             "HTML-CSS-JS Prettify",//html,js,css代码整理
             "LESS",//增加less语法
-            // "Nodejs",//nodejs插件 可以直接运行nodejs文件 // 由于比较复杂 , 暂时不用 使用 Java​Script & Node​JS Snippets 替代
-            "Java​Script & Node​JS Snippets", //  一个nodejs语法提示插件
+            // "Nodejs",//nodejs插件 可以直接运行nodejs文件 // 由于比较复杂 , 暂时不用
+            "Java​Script & Node​JS Snippets", // javascript 代码片段快速编写类似js版的emmet。 Java​Script Snippets 差不多一样
             "Package Control",// Package Control,管理全部插件,全部插件的基础,最先安装插件
             "SideBarEnhancements",// 增强侧边栏(右键)
             "SublimeCodeIntel",// !!!!必装 代码自动补全引擎 , js jq python ...好多语言都可以(所以好大)
@@ -108,8 +108,14 @@
             "Babel",// 248K TOP 100
             "css3",// 201K TOP 100
             "CSS Extended Completions",// 49K
-            "JavaScript Completions",// 216K TOP 100
             "jQuery",// 699K TOP 25
+
+            "Java​Script​Next - ES6 Syntax", // 211K top 100  更好的JavaScript语言定义// View -> Syntax -> Open all with current extension as... -> JavascriptNext.
+            //  "Java​Script​Next - ES6 Syntax" 会与自带的markdown语法冲突，需要下载一个新的markdown语法Markdown​Editing
+            "Markdown​Editing", // markdown语法功能，会自动禁用自带markdown
+
+            "JavaScript Completions",// 216K TOP 100 // 需要禁用 jQuery 或者 NativeScript 插件
+            // 提供js片段输入， "Find JavaScript Description" "On Hover Description" "Evaluate JavaScript" "Can I use?" "JSDoc"
         ]
     }
 
