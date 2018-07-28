@@ -1,0 +1,41 @@
+{
+	"draw_indent_guides": true,
+	"fade_fold_buttons": false,
+	"font_face": "consolas",
+	"font_options":
+	[
+	],
+	"font_size": 12,
+	"gutter": true,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Babel",
+		"Boxy Theme",
+		"CSS3",
+		"Material Theme",
+		"Nodejs",
+		"Solarized Color Scheme",
+		"Theme - Solarized Space",
+		"Vintage",
+		"Vue Syntax Highlight"
+	],
+	"line_numbers": true,
+	"line_padding_bottom": 5,
+	"line_padding_top": 5,
+	"margin": 0,
+	"rulers":
+	[
+		80,
+		100,
+		120
+	],
+	"show_definitions": false,
+	"show_encoding": true,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"update_check": true,
+	"word_wrap": "auto",
+	"wrap_width": 0
+}
