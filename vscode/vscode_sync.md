@@ -8,7 +8,7 @@
 
 2. 从范围中选择`Gist`。点击`Generate token`生成令牌（token）。将token保存起来供将来使用，因为刷新页面，token将消失。值得注意的事，一个token只能一个设备使用
 
-    `d0dbe1fc95fcc633ebb36061999bb4e246770cc3`
+    `5552492801162ccbf187072feebb6325f45956f3`
 
 3. ctrl + shift + p，`Upload Settings`会提示输入token，输入好后会自动上传设置，并在控制输入上传信息
 
@@ -17,7 +17,7 @@
         # Version: 2.9.0
         # --------------------
         # GitHub Token: d0dbe1fc95fcc633ebb36061999bb4e246770cc3
-        # GitHub Gist: 6a28ec9c13e98517d90de47e02e61c0e
+        # GitHub Gist: 9f615cd27bac8443877e5a89ce11861a
         # GitHub Gist Type: Secret
         # ...
         # ...
@@ -25,17 +25,15 @@
         # ...
     ```
 
-    其中`GitHub Gist`就是`GitHub Gist ID` 即系 `6a28ec9c13e98517d90de47e02e61c0e`
+    其中`GitHub Gist`就是`GitHub Gist ID` 即系 `9f615cd27bac8443877e5a89ce11861a`
 
-    * `6a28ec9c13e98517d90de47e02e61c0e`
-    * `7d3d035440439dd4d37876e0225cfff0`
     * `9f615cd27bac8443877e5a89ce11861a` home
 
-            GitHub Token: 5b911afd371385072b6a0600c8cc3e1a7333516c
+            GitHub Token: 5552492801162ccbf187072feebb6325f45956f3
             GitHub Gist: 9f615cd27bac8443877e5a89ce11861a
             GitHub Gist Type: Secret
 
-    [https://gist.github.com/cccikov/6a28ec9c13e98517d90de47e02e61c0e](https://gist.github.com/cccikov/6a28ec9c13e98517d90de47e02e61c0e)可以浏览配置（好像要翻墙才可以访问）
+    [https://gist.github.com/cccikov/9f615cd27bac8443877e5a89ce11861a](https://gist.github.com/cccikov/9f615cd27bac8443877e5a89ce11861a)可以浏览配置（好像要翻墙才可以访问）
 
 ## 下载配置
 
