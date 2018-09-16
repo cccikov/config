@@ -13,11 +13,6 @@
         "when": "editorTextFocus && !editorReadonly"
     },
     {
-        "key": "ctrl+shift+h",
-        "command": "editor.action.formatDocument",
-        "when": "editorHasDocumentFormattingProvider && editorTextFocus && !editorReadonly"
-    },
-    {
         "key": "shift+alt+8",
         "command": "workbench.action.toggleEditorGroupLayout"
     },
@@ -94,7 +89,8 @@
     },
     {
         "key": "ctrl+shift+h",
-        "command": "beautify.format"
+        "command": "editor.action.formatDocument",
+        "when": "editorHasDocumentFormattingProvider && editorTextFocus && !editorReadonly"
     },
     {
         "key": "ctrl+f2",
@@ -127,7 +123,15 @@
         "when": "editorTextFocus"
     },
     {
+        "key": "alt+p s",
+        "command": "projectManager.listProjects"
+    },
+    {
+        "key": "shift+alt+p",
+        "command": "-projectManager.listProjects"
+    },
+    {
         "key": "ctrl+shift+f2",
-        "command": "bookmarks.clearFromFile"
+        "command": "bookmarks.clear"
     }
 ]

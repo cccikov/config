@@ -10,10 +10,6 @@
 
     `d0dbe1fc95fcc633ebb36061999bb4e246770cc3`
 
-    home_sync:`d0dbe1fc95fcc633ebb36061999bb4e246770cc3`
-
-    acer_sync:`e906dca419147d69dd43e0661ae032dfa350cad4`
-
 3. ctrl + shift + p，`Upload Settings`会提示输入token，输入好后会自动上传设置，并在控制输入上传信息
 
     ``` bash
@@ -31,7 +27,13 @@
 
     其中`GitHub Gist`就是`GitHub Gist ID` 即系 `6a28ec9c13e98517d90de47e02e61c0e`
 
-    第二个 `7d3d035440439dd4d37876e0225cfff0`
+    * `6a28ec9c13e98517d90de47e02e61c0e`
+    * `7d3d035440439dd4d37876e0225cfff0`
+    * `9f615cd27bac8443877e5a89ce11861a` home
+
+            GitHub Token: 5b911afd371385072b6a0600c8cc3e1a7333516c
+            GitHub Gist: 9f615cd27bac8443877e5a89ce11861a
+            GitHub Gist Type: Secret
 
     [https://gist.github.com/cccikov/6a28ec9c13e98517d90de47e02e61c0e](https://gist.github.com/cccikov/6a28ec9c13e98517d90de47e02e61c0e)可以浏览配置（好像要翻墙才可以访问）
 
