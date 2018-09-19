@@ -39,10 +39,11 @@
     "sync.syncExtensions": true,
     "files.trimTrailingWhitespace": true,
     "editor.renderWhitespace": "none",
-    "vetur.format.defaultFormatter.html": "js-beautify-html",
+    "vetur.format.defaultFormatter.html": "js-beautify-html", // 是否格式化 .vue 的html部分
+    "vetur.format.scriptInitialIndent": true, // 是否有前面初始缩进
+    "vetur.format.styleInitialIndent": true, // 是否有前面初始缩进
+    "prettier.tabWidth":4, // vetur格式化缩进
     "editor.detectIndentation": false,
-    "vetur.format.scriptInitialIndent": true,
-    "vetur.format.styleInitialIndent": true,
     "editor.insertSpaces": false,
     "editor.tabSize": 4,
 }
