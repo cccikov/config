@@ -133,5 +133,13 @@
     {
         "key": "ctrl+shift+f2",
         "command": "bookmarks.clear"
+    },
+    {
+        "key": "ctrl+shift+g",
+        "command": "-workbench.view.scm"
+    },
+    {
+        "key": "ctrl+shift+g",
+        "command": "editor.emmet.action.wrapWithAbbreviation"
     }
 ]
