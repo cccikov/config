@@ -3,6 +3,8 @@
     "editor.rulers": [
         150
     ],
+    "editor.wordWrap": "bounded",
+    "editor.wordWrapColumn": 150,
     "editor.minimap.enabled": true,
     "window.zoomLevel": 0,
     "extensions.autoUpdate": true,
