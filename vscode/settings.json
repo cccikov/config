@@ -46,6 +46,6 @@
     "vetur.format.styleInitialIndent": true, // 是否有前面初始缩进
     "prettier.tabWidth":4, // vetur格式化缩进
     "editor.detectIndentation": false,
-    "editor.insertSpaces": false,
+    "editor.insertSpaces": true, // 缩进为空格，好像vscode默认就是true
     "editor.tabSize": 4,
 }
