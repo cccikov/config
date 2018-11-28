@@ -41,11 +41,13 @@
     "sync.syncExtensions": true,
     "files.trimTrailingWhitespace": true,
     "editor.renderWhitespace": "none",
-    "vetur.format.defaultFormatter.html": "js-beautify-html", // 是否格式化 .vue 的html部分
-    "vetur.format.scriptInitialIndent": true, // 是否有前面初始缩进
-    "vetur.format.styleInitialIndent": true, // 是否有前面初始缩进
-    "prettier.tabWidth":4, // vetur格式化缩进
     "editor.detectIndentation": false,
     "editor.insertSpaces": true, // 缩进为空格，好像vscode默认就是true
     "editor.tabSize": 4,
+    "vetur.format.scriptInitialIndent": true, // 是否有前面初始缩进
+    "vetur.format.styleInitialIndent": true, // 是否有前面初始缩进
+    "vetur.format.options.tabSize": 4, // vetur格式化缩进
+    "vetur.validation.template": false, // 是否对vue进行规范判断，比如v-for是否一定要加key
+    "git.confirmSync": false,
+    "eslint.enable": false,
 }
