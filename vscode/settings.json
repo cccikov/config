@@ -48,6 +48,22 @@
     "vetur.format.styleInitialIndent": true, // 是否有前面初始缩进
     "vetur.format.options.tabSize": 4, // vetur格式化缩进
     "vetur.validation.template": false, // 是否对vue进行规范判断，比如v-for是否一定要加key
+    "vetur.format.defaultFormatter.html": "prettyhtml",
+    "vetur.format.defaultFormatter.js": "prettier-eslint", // 其实js格式化也可以用prettier，但是用了prettier之后
+    "vetur.format.defaultFormatter.less": "prettier",
+    "vetur.format.defaultFormatter.css": "prettier",
+    "vetur.format.options.tabSize": 4,
+    "vetur.format.defaultFormatterOptions": {
+        "prettyhtml": {
+            "printWidth": 300,
+            "singleQuote": false,
+            "wrapAttributes": false,
+            "sortAttributes": false
+        },
+        "prettier": { // 设置了这个配置之后，如果css js都是用prettier规则来格式化，只会格式化其中一个，所以要将js格式化规则变为"prettier-eslint" ,但是还是必须style标签在script标签之前
+            "printWidth": 300, // 一行多少个字换行
+        },
+    },
     "git.confirmSync": false,
     "eslint.enable": false,
 }
