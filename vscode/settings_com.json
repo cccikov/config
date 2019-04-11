@@ -1,0 +1,78 @@
+{
+    "editor.fontSize": 16,
+    "editor.rulers": [
+        80
+    ],
+    "editor.wordWrapColumn": 150,
+    "editor.minimap.enabled": true,
+    "window.zoomLevel": 0,
+    "extensions.autoUpdate": true,
+    "editor.fontFamily": "Consolas,'微软雅黑', 'Courier New', monospace",
+    "editor.lineHeight": 27,
+    "editor.renderLineHighlight": "gutter",
+    "vsicons.dontShowNewVersionMessage": true,
+    "emmet.variables": {
+        "lang": "zh-CN",
+        "charset": "UTF-8"
+    },
+    "editor.multiCursorModifier": "ctrlCmd",
+    "emmet.showSuggestionsAsSnippets": true,
+    "editor.snippetSuggestions": "top",
+    "editor.formatOnPaste": false,
+    "emmet.triggerExpansionOnTab": true,
+    "workbench.colorTheme": "Material",
+    "workbench.activityBar.visible": true,
+    "workbench.sideBar.location": "left",
+    "workbench.startupEditor": "newUntitledFile",
+    "sync.gist": "9f615cd27bac8443877e5a89ce11861a",
+    "sync.lastUpload": "2018-07-18T18:22:33.250Z",
+    "sync.autoDownload": false,
+    "sync.autoUpload": false,
+    "sync.lastDownload": "2018-06-08T10:20:21.216Z",
+    "sync.forceDownload": false,
+    "sync.host": "",
+    "sync.pathPrefix": "",
+    "sync.quietSync": false,
+    "sync.askGistName": false,
+    "sync.removeExtensions": true,
+    "sync.syncExtensions": true,
+    "files.trimTrailingWhitespace": true,
+    "editor.renderWhitespace": "none",
+    "editor.detectIndentation": false,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4,
+    "vetur.format.scriptInitialIndent": true,
+    "vetur.format.styleInitialIndent": true,
+    "vetur.format.defaultFormatter.html": "prettyhtml",
+    "vetur.format.defaultFormatter.js": "prettier-eslint",
+    "vetur.format.defaultFormatter.less": "prettier",
+    "vetur.format.defaultFormatter.css": "prettier",
+    "vetur.format.options.tabSize": 4,
+    "vetur.format.defaultFormatterOptions": {
+        "prettyhtml": {
+            "printWidth": 300,
+            "singleQuote": false,
+            "wrapAttributes": false,
+            "sortAttributes": false
+        },
+        "prettier": {
+            "printWidth": 300,
+        },
+    },
+    "git.confirmSync": false,
+    "eslint.enable": false,
+    "breadcrumbs.enabled": true,
+    "git.autofetch": true,
+    "workbench.iconTheme": "vscode-icons",
+
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[less]": {
+        "editor.defaultFormatter": "michelemelluso.code-beautifier"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "vetur.completion.autoImport": false
+}
