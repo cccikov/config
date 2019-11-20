@@ -33,8 +33,9 @@
         "word_wrap": "auto",//内容换行:true 换行,false 不换行 ,auto 自动. view - Word Wrap可以设置
         "draw_white_space": "selection", // 是否显示空格回车，什么时候显示。
         "update_check": false,// 自动检查更新 , 虽然在左边默认值那边没有 (据说还要有LICENSE(许可证,已经购买了的意思)才可以)
-            
-        "draw_white_space": "selection"// 显示空格回车
+
+        "draw_white_space": "selection",// 显示空格回车
+        "folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", "node_modules"] // 哪些文件/文件夹会被显示到边栏上：排除列表 搜索也不会搜索
     }
 
     /*主题文件里面的设置*/

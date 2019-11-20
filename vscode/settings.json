@@ -74,4 +74,9 @@
     "vetur.completion.autoImport": false, // 包括完成模块导出和自动导入，最好关闭，不然在开发的时候，会无端端import一些我们不需要的模块
     "git.confirmSync": false,
     "eslint.enable": false,
+    // 配置在搜索中排除的文件和文件夹的 glob 模式。已经继承 `files.exclude` 设置的所有 glob 模式。可在[此处](https://code.visualstudio.com/docs/editor/codebasics#_advanced-search-options)阅读有关 glob 模式的详细信息。
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true
+    },
 }
