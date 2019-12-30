@@ -79,4 +79,8 @@
         "**/node_modules": true,
         "**/bower_components": true
     },
+
+
+    "explorer.sortOrder": "type", // 文件排序方式
+    "javascript.suggestionActions.enabled": false // 启用或禁用编辑器中 JavaScript 文件的建议诊断。要求工作区使用高于 2.8 版本的 TypeScript。 有些诊断建议好无聊的，比如使用的commonJS规范，却建议你使用es6模块规范
 }
