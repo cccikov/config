@@ -62,13 +62,13 @@
             "printWidth": 300, // 每行的最大长度
             "singleQuote": false, // 强制使用单引号
             "wrapAttributes": false, // html属性间强制换行
-            "sortAttributes": false // html属性强制按照字母排序
+            "sortAttributes": false, // html属性强制按照字母排序
         },
         "prettier": {
             // 文档 https://prettier.io/docs/en/options.html 每一项的 API Override 部分
             "printWidth": 300,
             "singleQuote": true,
-            "semi": false
+            "semi": false, // 末尾分号（语句结束符）
         }
     },
     "vetur.completion.autoImport": false, // 包括完成模块导出和自动导入，最好关闭，不然在开发的时候，会无端端import一些我们不需要的模块
@@ -82,5 +82,5 @@
 
 
     "explorer.sortOrder": "type", // 文件排序方式
-    "javascript.suggestionActions.enabled": false // 启用或禁用编辑器中 JavaScript 文件的建议诊断。要求工作区使用高于 2.8 版本的 TypeScript。 有些诊断建议好无聊的，比如使用的commonJS规范，却建议你使用es6模块规范
+    "javascript.suggestionActions.enabled": false, // 启用或禁用编辑器中 JavaScript 文件的建议诊断。要求工作区使用高于 2.8 版本的 TypeScript。 有些诊断建议好无聊的，比如使用的commonJS规范，却建议你使用es6模块规范
 }
