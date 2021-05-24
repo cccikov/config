@@ -1,0 +1,77 @@
+{
+    "editor.fontSize": 16,
+    "editor.rulers": [
+        150
+    ],
+    "editor.wordWrap": "bounded",
+    "editor.wordWrapColumn": 150,
+    "editor.minimap.enabled": true,
+    "extensions.autoUpdate": true,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "editor.fontFamily": "Consolas,'微软雅黑', 'Courier New', monospace",
+    "editor.lineHeight": 27,
+    "editor.renderLineHighlight": "gutter",
+    "emmet.variables": {
+        "lang": "zh-CN",
+        "charset": "UTF-8"
+    },
+    "editor.multiCursorModifier": "ctrlCmd",
+    "emmet.showSuggestionsAsSnippets": true,
+    "editor.snippetSuggestions": "top",
+    "editor.formatOnPaste": false,
+    "emmet.triggerExpansionOnTab": true,
+    "workbench.colorTheme": "Material",
+    "workbench.activityBar.visible": true,
+    "workbench.sideBar.location": "left",
+    "workbench.startupEditor": "newUntitledFile",
+    "sync.gist": "9f615cd27bac8443877e5a89ce11861a",
+    "sync.autoDownload": false,
+    "sync.autoUpload": false,
+    "sync.forceDownload": false,
+    "sync.quietSync": false,
+    "sync.askGistName": false,
+    "sync.removeExtensions": true,
+    "sync.syncExtensions": true,
+    "files.trimTrailingWhitespace": true,
+    "editor.renderWhitespace": "none",
+    "editor.detectIndentation": false,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4,
+    "vetur.format.scriptInitialIndent": true,
+    "vetur.format.styleInitialIndent": true,
+    "vetur.validation.template": false,
+    "vetur.format.defaultFormatter.html": "prettyhtml",
+    "vetur.format.defaultFormatter.js": "prettier-eslint",
+    "vetur.format.defaultFormatter.less": "prettier",
+    "vetur.format.defaultFormatter.css": "prettier",
+    "vetur.format.options.tabSize": 4,
+    "vetur.format.defaultFormatterOptions": {
+        "prettyhtml": {
+            "printWidth": 300,
+            "singleQuote": false,
+            "wrapAttributes": false,
+            "sortAttributes": false
+        },
+        "prettier": {
+            "printWidth": 300,
+            "semi": true,
+            "singleQuote": false,
+            "arrowParens": "always"
+        },
+    },
+    "git.confirmSync": false,
+    "eslint.enable": false,
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "explorer.sortOrder": "type"
+}

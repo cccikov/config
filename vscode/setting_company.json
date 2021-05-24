@@ -1,0 +1,106 @@
+{
+    "editor.fontSize": 16,
+    "editor.rulers": [
+        80
+    ],
+    "editor.wordWrapColumn": 150,
+    "editor.minimap.enabled": true,
+    "extensions.autoUpdate": true,
+    "editor.fontFamily": "Consolas,'微软雅黑', 'Courier New', monospace",
+    "editor.lineHeight": 27,
+    "editor.renderLineHighlight": "gutter",
+    "emmet.variables": {
+        "lang": "zh-CN",
+        "charset": "UTF-8"
+    },
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "emmet.showSuggestionsAsSnippets": true,
+    "editor.snippetSuggestions": "top",
+    "editor.formatOnPaste": false,
+    "emmet.triggerExpansionOnTab": true,
+    "workbench.colorTheme": "Material",
+    "workbench.activityBar.visible": true,
+    "workbench.sideBar.location": "left",
+    "workbench.startupEditor": "newUntitledFile",
+    "files.trimTrailingWhitespace": true,
+    "editor.renderWhitespace": "selection",
+    "[vue]": {
+        "editor.defaultFormatter": "octref.vetur"
+    },
+    "eslint.enable": true,
+    "breadcrumbs.enabled": true,
+    "git.autofetch": true,
+    "files.associations": {
+        "*.vue": "vue",
+        "*.cjson": "jsonc",
+        "*.wxss": "css",
+        "*.wxs": "javascript"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[less]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+
+    "[json]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "emmet.includeLanguages": {
+        "wxml": "html"
+    },
+    "minapp-vscode.disableAutoConfig": true,
+    "terminal.integrated.rendererType": "dom",
+    "editor.renderControlCharacters": false,
+    "javascript.suggestionActions.enabled": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "eslint.format.enable": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "settingsSync.ignoredExtensions": [],
+    "git.confirmSync": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "vetur.format.scriptInitialIndent": true,
+    "vetur.format.styleInitialIndent": true,
+    "vetur.format.defaultFormatter.html": "prettyhtml",
+    "vetur.format.defaultFormatter.js": "prettier",
+    "vetur.format.defaultFormatter.less": "prettier",
+    "vetur.format.defaultFormatter.css": "prettier",
+    "vetur.format.options.tabSize": 2,
+    "vetur.format.defaultFormatterOptions": {
+        "prettyhtml": {
+            "printWidth": 800,
+            "singleQuote": false,
+            "wrapAttributes": false,
+            "sortAttributes": false
+        },
+        "prettier": {
+            "printWidth": 800,
+            "singleQuote": false,
+            "semi": false,
+            "trailingComma": "none",
+            "arrowParens": "avoid",
+            "quoteProps": "as-needed",
+        },
+    },
+    "vetur.completion.autoImport": false,
+    "vetur.validation.template": false,
+    "[css]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "explorer.sortOrder": "type",
+    "explorer.autoReveal": "focusNoScroll",
+    "bookmarks.saveBookmarksInProject": true,
+    "bookmarks.navigateThroughAllFiles": false,
+    "[javascript]": {
+        // "editor.defaultFormatter": "HookyQR.beautify",
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+}
